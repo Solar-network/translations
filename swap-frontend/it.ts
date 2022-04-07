@@ -20,7 +20,7 @@ export const TRANSLATIONS_IT = {
     step2_title: "Inserisci importo in SXP.",
     step2_subtitle: "Inserisci la quantità di token Swipe (SXP) che vuoi scambiare. Non è necessario scambiare tutto in una volta al primo tentativo.",
     you_have: "Attualmente hai {{amount}} SXP", // intended for "you currently have x SXP"
-    swap_all: "Scambia tutto", // always in lowercase
+    swap_all: "scambia tutto", // always in lowercase
     step3_title: "Qual è il tuo indirizzo SXP mainnet?",
     step3_subtitle: "Inserisci il tuo indirizzo SXP mainnet dove riceverai i tuoi token SXP.",
     enter_address: "Inserisci un indirizzo SXP mainnet valido",
@@ -28,7 +28,7 @@ export const TRANSLATIONS_IT = {
     valid_address: "Questo indirizzo SXP mainnet è valido.",
     step4_title: "Scambia i tuoi SXP!",
     step4_subtitle: "Clicca sul pulsante di approvazione, attendi di poter scambiare... sì, fallo!",
-    gonna_swap: "Stai per scambiare...",
+    gonna_swap: "Stai per scambiare",
     to: "per",
     approve_swap: "Approva scambio",
     approving_swap: "Scambio in approvazione...",
