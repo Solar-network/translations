@@ -5,6 +5,7 @@ import LanguageDetector from "i18next-browser-languagedetector";
 import { TRANSLATIONS_EN } from "./en";
 import { TRANSLATIONS_TR } from "./tr";
 import { TRANSLATIONS_KR } from "./kr";
+import { TRANSLATIONS_IT } from "./it";
 import { TRANSLATIONS_RO } from "./ro";
  
 i18n
@@ -19,10 +20,13 @@ i18n
        translation: TRANSLATIONS_TR
      },
      kr: {
-      translation: TRANSLATIONS_KR
+       translation: TRANSLATIONS_KR
+     },
+     it: {
+       translation: TRANSLATIONS_IT
      },
      ro: {
-      translation: TRANSLATIONS_RO
+       translation: TRANSLATIONS_RO
      }
    }
  });
