@@ -1,4 +1,4 @@
-export const TRANSLATIONS_VN = {
+export const TRANSLATIONS_VI = {
     step0_title:"Xin chào đến với SxpSwap!",
     step0_subtitle: "Công cụ này được thiết kế để tạo hỗ trợ việc hoán đổi (di chuyển) từ SXP ERC20 và SXP BEP20 sang SXP Mainnet. Nhấp vào Câu hỏi thường gặp bên dưới để tìm hiểu thêm về công cụ này. Nếu không, hãy nhấp vào tiếp theo để bắt đầu chuyển đổi SXP sang mainnet. ",
     useful_links: "Những link hữu ích cần biết trước khi chuyển đổi..",
