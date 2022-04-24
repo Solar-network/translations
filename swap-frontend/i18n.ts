@@ -7,6 +7,7 @@ import { TRANSLATIONS_TR } from "./tr";
 import { TRANSLATIONS_KR } from "./kr";
 import { TRANSLATIONS_IT } from "./it";
 import { TRANSLATIONS_RO } from "./ro";
+import { TRANSLATIONS_VI } from "./vi";
  
 i18n
  .use(LanguageDetector)
@@ -27,7 +28,10 @@ i18n
      },
      ro: {
        translation: TRANSLATIONS_RO
-     }
+     },
+     vi: {
+       translation: TRANSLATIONS_VI
+     }    
    }
  });
  
